@@ -1,0 +1,46 @@
+div{
+  display: flex;
+  padding: 300px 10px;
+  align-content: center;
+  
+}
+
+.button{
+  height: 200px;
+  width: 2000px;
+  font-size: 50px; 
+  color: rgb(53, 26, 207);
+  background-color: transparent;
+  border-color: transparent;
+}
+
+body {
+  background: linear-gradient(300deg, black, green, lightgreen);
+  background-size: 180% 310%;
+  animation: gradient-animation 18s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+footer{
+  text-align: center;
+  font-size: 20px;
+  position: absolute;
+  right: 0;
+  left: 0;
+  bottom: 0;
+}
+
+a{
+  color: aliceblue;
+}
