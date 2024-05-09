@@ -1,4 +1,4 @@
-
+//NO STEALING
 var numToUrl = {
     1: "https://www.youtube.com/watch?v=bNQSMTNSnUw",
     2: "https://www.youtube.com/watch?v=SC8cSnFTd_0",
