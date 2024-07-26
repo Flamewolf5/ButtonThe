@@ -16,7 +16,7 @@ div{
 
 body {
   background: linear-gradient(300deg, black, green, lightgreen);
-  background-size: 180% 310%;
+  background-size: 180% 500%;
   animation: gradient-animation 18s ease infinite;
 }
 
