@@ -99,6 +99,8 @@ var numToUrl = {
     97: "https://matias.me/nsfw/?fbclid=PAAaZCfzc_Hkpx6Gv88S-maEeNLTL7cQjFBqiCrRm-RomZOTa3qvVyCO_8dFw_aem_AfgXijsz0xZ-Zst2E3RWgEHcHFwVBOdhLwsRrzOOlMjD_-mKNxhafK_JkuXaDY0tdVQ",
     98: "https://www.youtube.com/watch?v=DfYknJqk_xo",
     99: "https://www.youtube.com/watch?v=ai_e3jZdO2M",
+    100: "https://www.youtube.com/watch?v=z3OKd5b2Rlw",
+    101: "https://www.youtube.com/watch?v=WXwgZL4zx9o",
 }
 
 function getRandomNumber(min, max){
