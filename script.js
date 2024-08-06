@@ -101,6 +101,8 @@ var numToUrl = {
     99: "https://www.youtube.com/watch?v=ai_e3jZdO2M",
     100: "https://www.youtube.com/watch?v=z3OKd5b2Rlw",
     101: "https://www.youtube.com/watch?v=WXwgZL4zx9o",
+    102: "https://www.youtube.com/watch?v=-TGPRg89eCw",
+    103: "https://www.youtube.com/watch?v=K0HSD_i2DvA",
 }
 
 function getRandomNumber(min, max){
