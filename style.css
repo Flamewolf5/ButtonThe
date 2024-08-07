@@ -1,12 +1,10 @@
 div{
   display: flex;
-  padding: 300px 10px;
-  align-content: center;
-  
+  padding: 100px 10px;
 }
 
 .button{
-  height: 200px;
+  height: 100px;
   width: 2000px;
   font-size: 50px; 
   color: rgb(53, 26, 207);
@@ -39,8 +37,30 @@ footer{
   right: 0;
   left: 0;
   bottom: 0;
+  padding-bottom: 20px;
 }
 
 a{
   color: aliceblue;
+}
+
+.h1{
+  color: transparent;
+  text-align: center;
+  font-size: 100px;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+  -webkit-background-clip: text;
+  background-image: url(images/download.jpg);
+  animation: bg-animation 20s cubic-bezier(.52,.23,.28,.94) infinite;
+}
+
+@keyframes bg-animation {
+  0% {background-position: 0% 0%;}
+  50% {background-position: 100% 100%;}
+  100% {background-position: 0% 0%;}
+}
+
+.link{
+  color: magenta;
 }
