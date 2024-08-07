@@ -103,6 +103,7 @@ var numToUrl = {
     101: "https://www.youtube.com/watch?v=WXwgZL4zx9o",
     102: "https://www.youtube.com/watch?v=-TGPRg89eCw",
     103: "https://www.youtube.com/watch?v=K0HSD_i2DvA",
+    104: "https://www.wikihow.com/Main-Page",
 }
 
 function getRandomNumber(min, max){
